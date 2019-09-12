@@ -1,7 +1,7 @@
 ﻿# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Oleksii liapin](https://up.htmlacademy.ru/javascript/18/user/565937).
-* Наставник: `Danil Shcherbakov`.
+* Наставник: [Danil Shcherbakov](https://up.htmlacademy.ru/javascript/18/user/1174181).
 
 ---
 
